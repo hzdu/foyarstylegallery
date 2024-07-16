@@ -1,0 +1,26 @@
+new/
+old/
+out/
+__MACOSX/
+
+# ignore log files and databases
+*.php
+*.icloud
+*.xml
+*.pdf
+*.txt
+*.log
+*.sql
+*.sqlite
+*.htaccess
+*.tar.gz
+*.zip
+*.rar
+*.txt
+*.py
+*.po
+*.mo
+*.md
+*.html
+*.htm
+*.txt
